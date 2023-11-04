@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hitesh Vashisth
 =======================================================================================================================================
 
-Machine Learning | Data Analyst| Python SQL | Help businesses make data-driven decisions and build AI-Powered data products.
+Machine Learning | Data Analyst| Python SQL |
+Help businesses make data-driven decisions and build AI-Powered data products.
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [hiteshvashistha2020@gmail.com](mailto:hiteshvashistha2020@gmail.com)
